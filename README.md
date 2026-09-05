@@ -74,7 +74,7 @@ I'm currently focused on building strong practical skills in **Data Analytics** 
 ## 📫 Contact
 
 📧 **Email:** arvindku8651@gmail.com  
-📍 **Location:** Patna, Bihar, India  
+📍 **Location:** Delhi,India  
 💼 **Open to:** Data Analyst Internships & Entry-Level Data Analyst Opportunities
 
 ⭐ **Thanks for visiting my GitHub profile!**
